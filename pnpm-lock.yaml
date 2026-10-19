@@ -2092,8 +2092,13 @@ packages:
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
 
+<<<<<<< HEAD
   schema-utils@4.8.0:
     resolution: {integrity: sha512-D6ak0FU4RNCpVJQ+IOVURXKprTSij0dkyWAGjMXs/UddfdSFcjjjIFYJ4PwYU+3UKr+1BcDk2ze6IisgpvZtmw==}
+=======
+  schema-utils@4.8.1:
+    resolution: {integrity: sha512-x39pYlJPyH7Uge5QO64B9XGP9zLDc9WNmiQZc+CE3IzZPvMu3lHOuAMGpYNoPixEL7MSWlGhYTg5UlLSL8G6iw==}
+>>>>>>> 4f1d688abeae5deac599132e4f1f3af4e81fe335
     engines: {node: '>= 10.13.0'}
     hasBin: true
     peerDependencies:
@@ -4235,7 +4240,11 @@ snapshots:
       '@rollup/rollup-win32-x64-msvc': 4.64.10
       fsevents: 2.3.3
 
+<<<<<<< HEAD
   schema-utils@4.8.0(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31)):
+=======
+  schema-utils@4.8.1(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31)):
+>>>>>>> 4f1d688abeae5deac599132e4f1f3af4e81fe335
     dependencies:
       '@types/json-schema': 7.0.15
       ajv: 8.20.0
@@ -4305,7 +4314,11 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.31
       jest-worker: 27.5.1
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31))
+=======
+      schema-utils: 4.8.1(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31))
+>>>>>>> 4f1d688abeae5deac599132e4f1f3af4e81fe335
       terser: 5.51.2
       webpack: 5.101.3(lightningcss@1.32.0)(postcss@8.5.31)
     optionalDependencies:
@@ -4596,7 +4609,11 @@ snapshots:
       loader-runner: 4.3.2
       mime-types: 2.1.35
       neo-async: 2.6.2
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31))
+=======
+      schema-utils: 4.8.1(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31))
+>>>>>>> 4f1d688abeae5deac599132e4f1f3af4e81fe335
       tapable: 2.3.3
       terser-webpack-plugin: 5.6.1(lightningcss@1.32.0)(postcss@8.5.31)(webpack@5.101.3(lightningcss@1.32.0)(postcss@8.5.31))
       watchpack: 2.6.3
